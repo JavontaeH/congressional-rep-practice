@@ -1,0 +1,37 @@
+body {
+  color: white;
+  background-color: #0f0f2a;
+  font-family: sans-serif;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  border-style: outset;
+  border-color: #3f4375;
+  background-color: #24244c;
+}
+
+.rep-info {
+  display: flex;
+  align-items: center;
+  background-color: #24244c;
+}
+
+.rep-committiees h4 {
+  display: flex;
+  border-style: outset;
+  border-color: #3f4375;
+  background-color: #24244c;
+}
+
+.rep-committiees p {
+  font-family: arial;
+}
+
+a {
+  display: flex;
+  margin-top: 275px;
+  align-items: flex-end;
+  color: #5ea9cf;
+}
