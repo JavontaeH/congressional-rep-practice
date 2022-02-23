@@ -1,7 +1,7 @@
 body {
   color: white;
   background-color: #0f0f2a;
-  font-family: sans-serif;
+  font-family: "Raleway", sans-serif;
 }
 
 h1 {
@@ -19,6 +19,7 @@ h1 {
 }
 
 .rep-committiees h4 {
+  font-family: "Rambla", sans-serif;
   display: flex;
   border-style: outset;
   border-color: #3f4375;
@@ -26,12 +27,14 @@ h1 {
 }
 
 .rep-committiees p {
-  font-family: arial;
+  font-family: "Varela", sans-serif;
 }
 
 a {
+  font-family: "Varela", sans-serif;
+
   display: flex;
-  margin-top: 275px;
+  margin-top: 250px;
   color: #5ea9cf;
   border-style: outset;
   border-color: #3f4375;
